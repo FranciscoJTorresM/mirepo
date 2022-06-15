@@ -1,0 +1,17 @@
+body{
+    background:url("https://i.pinimg.com/originals/a6/55/71/a65571c737ff48eb37a2e2ea821cecdb.jpg");
+    background-position: 20px;
+}
+.clase-titulo{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(170, 125, 155);
+}
+.clase-foto{
+    margin: 10px left;
+    width: 180px;
+    height: 180px;
+    display: block;
+    border-radius: 120px;
+}
