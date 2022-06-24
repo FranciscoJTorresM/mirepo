@@ -14,18 +14,23 @@ body{
     text-align: center;
 
 }
-/*.clase-titulo{
+.clase-titulo{
     font-size: 35px;
     color: rgb(255, 255, 255);
     text-align: center;
     background-color: rgb(170, 125, 155);
-}*/
+}
 .clase-foto{
     top: 120px;
     border-radius: 120px;
     width: 180px;
     height: 180px;
     position: relative;
-    margin: 10px left;
-    display: inline-block;
+    margin: 120px right;
+    display: inline-flex;
+    margin-top: 50px;
+}
+.datos{
+    position: relative;
+    margin-top: 150px;
 }
